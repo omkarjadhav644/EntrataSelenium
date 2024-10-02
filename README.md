@@ -26,3 +26,6 @@ To execute all the tests run the following command
 
 Alternate solution to run the tests via IDE
 Execute the tests with IDE under EntrataTests package for any of the class in MainPageTests,SummitPageTests,WatchDemoFormTests.
+
+You can expect the below output:
+<img width="1422" alt="image" src="https://github.com/user-attachments/assets/ce2bf9ae-eb77-432b-9cf7-50724dfb9cba">
