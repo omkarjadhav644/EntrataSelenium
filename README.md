@@ -13,12 +13,12 @@ Note: Please ensure mvn and java version dependencies according to your machine 
 
 **Setting Up the Project**
 
-Clone the Repository:
+Clone the Repository with following command on terminal:
 git clone https://github.com/omkarjadhav644/EntrataSelenium.git
 import the pom.xml for the project in the IDE
 
 *Mandatory steps*
-Update the correct chromedriver under /Entrata_Assignment/src/main/resources as per your chrome version.
+Update the correct chromedriver under /Entrata_Assignment/src/main/resources as per your chrome version in format(chromedriver_chromeVersion). In repository it is 129.
 Same chrome version need to be updated in /Entrata_Assignment/src/main/resources/Selenium.properties
 
 To execute all the tests run the following command
