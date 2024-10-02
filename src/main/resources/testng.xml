@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteName">
+    <test name="TestName">
+        <classes>
+            <class name="com.omkar.Tests.EntrataTests.SummitPageTests"/>
+            <class name="com.omkar.Tests.EntrataTests.MainPageTests"/>
+            <class name="com.omkar.Tests.EntrataTests.WatchDemoFormTests"/>
+        </classes>
+    </test>
+</suite>
